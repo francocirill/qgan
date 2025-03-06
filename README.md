@@ -16,7 +16,18 @@ The project demonstrates:
 
 ## **Citation**  
 
-If you plan to use this code for your work, please cite the associated paper once it is published. Kindly check back on this GitHub page for updates regarding the publication status and citation information.
+@conference{qaio25,
+author={Franco Cirillo and Christian Esposito},
+title={Intrusion Detection System Based on Quantum Generative Adversarial Network},
+booktitle={Proceedings of the 17th International Conference on Agents and Artificial Intelligence - Volume 1: QAIO},
+year={2025},
+pages={830-838},
+publisher={SciTePress},
+organization={INSTICC},
+doi={10.5220/0013397800003890},
+isbn={978-989-758-737-5},
+issn={2184-433X},
+}
 
 ## Contact
 Franco Cirillo fracirillo@unisa.it
