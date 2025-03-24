@@ -29,5 +29,8 @@ isbn={978-989-758-737-5},
 issn={2184-433X},
 }
 
+## Acknowledgment
+This research is funded by the NGIsargasso project (Europe Horizon Grant No. 101092887), Open Call 4  FRQGAN4AD project. 
+
 ## Contact
 Franco Cirillo fracirillo@unisa.it
